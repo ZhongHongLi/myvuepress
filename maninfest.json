@@ -1,0 +1,15 @@
+{
+    "name":"我是一条鱼",
+    "short_name":"hongli",
+    "description":"hongli的文档",
+    "icons":[
+        {
+            "src":"/logo.jpeg",
+            "type":"image/png",
+            "sizes":"144x144"
+        }
+    ],
+    "background_color":"#2196f3",
+    "display":"standalone",
+    "start_url":"index.html"
+}
